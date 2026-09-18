@@ -1,0 +1,1 @@
+# Kompact-AI-Hackathon
