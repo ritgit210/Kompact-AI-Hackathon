@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+opencv-python
+onnxruntime
+numpy
+pillow
+ultralytics
+openai
+python-dotenv
+python-multipart
+websockets
